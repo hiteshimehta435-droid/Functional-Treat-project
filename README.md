@@ -18,10 +18,6 @@ The project allows users to enter data, view summaries, perform calculations, an
 ---
 
 ## 🚀 Features
-<img width="1500" height="721" alt="python project 4" src="https://github.com/user-attachments/assets/a670ae1a-6131-4faa-b64e-4b48778c94fd" />
-
-
-
 1. User Input Data
 2. Data Summary
 3. Lambda Function Example
