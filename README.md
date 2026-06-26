@@ -20,12 +20,25 @@ The project allows users to enter data, view summaries, perform calculations, an
 
 
 2. Data Summary
+<img width="584" height="276" alt="Screenshot 2026-06-26 181300" src="https://github.com/user-attachments/assets/07288b16-a875-405d-aca6-b88773062f85" />
 
 
 3. Lambda Function Example
+<img width="724" height="263" alt="Screenshot 2026-06-26 181330" src="https://github.com/user-attachments/assets/5bfc7a20-2649-4436-a50a-3162f16182fb" />
+
+
 4. *args Function Example
+<img width="653" height="247" alt="Screenshot 2026-06-26 181354" src="https://github.com/user-attachments/assets/76fe9ce8-76ef-4ca5-9fb2-12b49b21c2e9" />
+
+
 5. **kwargs Function Example
+<img width="668" height="254" alt="Screenshot 2026-06-26 181421" src="https://github.com/user-attachments/assets/5c9d0916-6031-4d71-9f15-76179e8f12f6" />
+
+
 6. Sorting
+<img width="630" height="289" alt="Screenshot 2026-06-26 181444" src="https://github.com/user-attachments/assets/059056fd-7496-407a-9b85-befca00c8224" />
+
+
 7. Exit Program
 
 ---
