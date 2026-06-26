@@ -53,22 +53,37 @@ The project allows users to enter data, view summaries, perform calculations, an
 ---
 
 ## 📂 Project output
-
 1.user input data
+
 <img width="485" height="217" alt="1" src="https://github.com/user-attachments/assets/e8812be8-e596-4bf5-8bcc-6263bc41fff6" />
 
 
 2.data summary
+
 <img width="391" height="126" alt="2" src="https://github.com/user-attachments/assets/b7c47add-aecc-428f-89a1-72922eb2458b" />
 
 
 3.filter data
 
+<img width="358" height="70" alt="3" src="https://github.com/user-attachments/assets/d6fa9178-7f23-4635-9467-1df9122bb43e" />
+
 
 4.*args function
 
+<img width="350" height="53" alt="4" src="https://github.com/user-attachments/assets/eafc9992-f03c-4639-be95-26984774cfeb" />
 
-6.**kwargs function
+
+5.**kwargs function
+
+<img width="343" height="55" alt="5" src="https://github.com/user-attachments/assets/ced11588-80c7-4b82-a922-adcabff08f59" />
+
+
+
+6.sorting data
+
+<img width="362" height="125" alt="6" src="https://github.com/user-attachments/assets/dc27b602-dab1-4d11-9568-e14065fc196f" />
 
 
 7.exit program
+
+<img width="328" height="75" alt="7" src="https://github.com/user-attachments/assets/36c71a1b-30f5-4ff9-a575-24e4c69ed7e8" />
