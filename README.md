@@ -3,9 +3,6 @@
 
 ## 📌 Project Overview
 Functional Trait Analyzer and Transformer is a Python menu-driven project that demonstrates the use of functional programming concepts such as:
-<img width="1466" height="1600" alt="python project (4)" src="https://github.com/user-attachments/assets/f517cbe7-ba15-493c-84c7-99879e6ceba5" />
-
-
 
 - Lambda Functions
 - *args
