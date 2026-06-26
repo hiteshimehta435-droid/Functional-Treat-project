@@ -24,6 +24,8 @@ The project allows users to enter data, view summaries, perform calculations, an
 2. Data Summary
 <img width="584" height="276" alt="Screenshot 2026-06-26 181300" src="https://github.com/user-attachments/assets/07288b16-a875-405d-aca6-b88773062f85" />
 
+
+
 <img width="391" height="126" alt="2" src="https://github.com/user-attachments/assets/8af5780e-2199-4492-94e5-60b93da6e890" />
 
 
@@ -36,6 +38,8 @@ The project allows users to enter data, view summaries, perform calculations, an
 4. *args Function Example
 <img width="653" height="247" alt="Screenshot 2026-06-26 181354" src="https://github.com/user-attachments/assets/76fe9ce8-76ef-4ca5-9fb2-12b49b21c2e9" />
 
+
+
 <img width="350" height="53" alt="4" src="https://github.com/user-attachments/assets/c9736e1d-2e5b-49e6-b778-710f14653643" />
 
 
@@ -47,6 +51,8 @@ The project allows users to enter data, view summaries, perform calculations, an
 
 6. Sorting
 <img width="630" height="289" alt="Screenshot 2026-06-26 181444" src="https://github.com/user-attachments/assets/059056fd-7496-407a-9b85-befca00c8224" />
+
+
 
 <img width="362" height="125" alt="6" src="https://github.com/user-attachments/assets/dfba2add-7a8f-4055-bc0b-f30d2787219e" />
 
