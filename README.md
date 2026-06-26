@@ -16,7 +16,12 @@ The project allows users to enter data, view summaries, perform calculations, an
 
 ## 🚀 Features
 1. User Input Data
+<img width="741" height="158" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/62d3a1ca-d2b5-429d-a1f7-08db8150f8f6" />
+
+
 2. Data Summary
+
+
 3. Lambda Function Example
 4. *args Function Example
 5. **kwargs Function Example
